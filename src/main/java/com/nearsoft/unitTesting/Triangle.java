@@ -1,7 +1,7 @@
 package com.nearsoft.unitTesting;
 
 /**
- * Created by vanchondo on 12/19/16.
+ * Created by vanchondo
  */
 public class Triangle {
 
